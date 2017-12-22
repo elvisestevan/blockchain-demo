@@ -9,11 +9,13 @@
 	"Distributed": "Distribuídos",
 	"Tokens": "Tokens",
 	"Coinbase": "Coinbase",
+	"Rewards": "Recompensas",
 	"Prev": "Prévio",
 	"Distributed Blockchain": "Blockchain distribuído",
 	"Peer": "Peer",
 	"Tx": "Tx",
 	"$": "Re$",
 	"From": "De",
-	"Coinbase Transactions": "Transações Coinbase"
+	"Coinbase Transactions": "Transações Coinbase",
+	"Not Implemented Yet": "Not Implemented Yet"
 }
